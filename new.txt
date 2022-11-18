@@ -1,9 +1,0 @@
- display:flex; to put it horizontaly
- justify-content:space-between; dui ta div er moddey space rekhey duita div key dui saidey pathano hoi
- align-items:center; to put it vertically center
- rem we should use rem instead of px
- text decoration none
- a.hover a.active
- padding make background big so use it carefully 
- think about margin and padding before using items
- 
